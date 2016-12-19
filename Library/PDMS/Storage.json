@@ -1,0 +1,7 @@
+{
+"component": "Storage",
+"size": {"height": 5, "width": 30},
+"functions": [ {"function": "store", "parameters": [ "id" ] },{"function": "Store", "parameters": [ "id" ] } ],
+"controlPorts": { "number": 2, "locations": [{"x": 20, "y": 10},{"x": 0, "y": 10}] },
+"flowPorts": { "number": 2, "locations": [{"x": 2, "y": 0},{"x": 2, "y": 30}] }
+}

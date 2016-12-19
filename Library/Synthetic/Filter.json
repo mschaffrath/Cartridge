@@ -1,0 +1,7 @@
+{
+"component": "Filter",
+"size": {"width": 120,"height": 30},
+"flowPorts": {"number": 2,"locations": [{"x": 0,"y": 15},{"x": 120,"y": 15}]},
+"controlPorts": {"number": 2,"locations": [{"x": 0,"y": 15},{"x": 120,"y": 15}]},
+"functions": [{"name": "Filter","parameters": [{"name": "Time","type": "Decimal"}] },{"name": "filter","parameters": [{"name": "Time","type": "Decimal"}] }]
+}

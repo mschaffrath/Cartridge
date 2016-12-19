@@ -1,0 +1,7 @@
+{
+"component": "y_channel_n",
+"size": {"height": 100, "width": 100},
+"functions": [ {"function": "detect", "parameters": [ "id","time" ] },{"function": "Detect", "parameters": [ "id","time" ] } ],
+"controlPorts": { "number": 2, "locations": [{"x": 0, "y": 0},{"x": 0, "y": 0}] },
+"flowPorts": { "number": 3, "locations": [{"x": 0, "y": 50},{"x": 100, "y": 50},{"x": 50, "y": 0}] }
+}

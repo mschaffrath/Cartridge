@@ -1,0 +1,7 @@
+{
+"component": "Mixer",
+"size": {"width": 30,"height": 30},
+"flowPorts": {"number": 2,"locations": [{"x": 0,"y": 15},{"x": 30,"y": 15}]},
+"controlPorts": {"number": 9,"locations": [{"x": 8,"y": 0},{"x": 10,"y": 0},{"x": 12,"y": 0},{"x": 20,"y": 0},{"x": 22,"y": 0},{"x": 24,"y": 0},{"x": 30,"y": 18},{"x": 30,"y": 20},{"x": 30,"y": 22}]},
+"functions": [{"name": "Mix","parameters": [{"name": "Time","type": "Decimal"}] },{"name": "mix","parameters": [{"name": "Time","type": "Decimal"}] },{"name": "Mixer","parameters": [{"name": "Time","type": "Decimal"}] }]
+}

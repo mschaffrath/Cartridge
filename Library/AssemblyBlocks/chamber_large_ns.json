@@ -1,0 +1,7 @@
+{
+"component": "chamber_large_ns",
+"size": {"height": 200, "width": 200},
+"functions": [ {"function": "detect", "parameters": [ "id","time" ] },{"function": "Detect", "parameters": [ "id","time" ] } ],
+"controlPorts": { "number": 2, "locations": [{"x": 0, "y": 0},{"x": 0, "y": 0}] },
+"flowPorts": { "number": 2, "locations": [{"x": 50, "y": 0},{"x": 150, "y": 200}] }
+}

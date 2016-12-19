@@ -1,0 +1,7 @@
+{
+"component": "Mixer3800",
+"size": {"height": 75, "width": 38},
+"functions": [ {"function": "mix", "parameters": [ "id","time" ] },{"function": "Mix", "parameters": [ "id","time" ] } ],
+"controlPorts": { "number": 9, "locations": [ 8,10,12,20,22,24,48,50,52 ] },
+"flowPorts": { "number": 2, "locations": [{"x": 0, "y": 37},{"x": 38, "y": 37}] }
+}

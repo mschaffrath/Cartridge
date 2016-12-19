@@ -1,0 +1,7 @@
+{
+"component": "Mixer6000",
+"size": {"height": 30, "width": 60},
+"functions": [ {"function": "mix", "parameters": [ "id","time" ] },{"function": "Mix", "parameters": [ "id","time" ] } ],
+"controlPorts": { "number": 9, "locations": [ 8,10,12,20,22,24,48,50,52 ] },
+"flowPorts": { "number": 2, "locations": [{"x": 0, "y": 15},{"x": 60, "y": 15}] }
+}

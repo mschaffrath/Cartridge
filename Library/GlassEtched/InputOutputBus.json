@@ -1,0 +1,8 @@
+{
+"component": "InputOutputBus",
+"size": {"width": 78,"height": 119},
+"flowPorts": {"number": 1,"locations": [{"x": 38,"y": 0}]},
+"controlPorts": {"number": 0,"locations": []},
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }]
+}
+

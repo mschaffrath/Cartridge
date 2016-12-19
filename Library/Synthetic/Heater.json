@@ -1,0 +1,7 @@
+{
+"component": "Heater",
+"size": {"width": 40,"height": 15},
+"flowPorts": {"number": 2,"locations": [{"x": 0,"y": 7},{"x": 40,"y": 7}]},
+"controlPorts": {"number": 2,"locations": [{"x": 0,"y": 7},{"x": 40,"y": 7}]},
+"functions": [{"name": "Heater","parameters": [{"name": "Time","type": "Decimal"}] },{"name": "heater","parameters": [{"name": "Time","type": "Decimal"}] }]
+}

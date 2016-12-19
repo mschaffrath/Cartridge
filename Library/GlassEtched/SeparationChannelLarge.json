@@ -1,0 +1,7 @@
+{
+"component": "SeparationChannel",
+"size": {"width": 20,"height": 340},
+"flowPorts": {"number": 4,"locations": [{"x": 5,"y": 0},{"x": 14,"y": 340},{"x": 0,"y": 10},{"x": 20,"y": 10}]},
+"controlPorts": {"number": 0,"locations": []},
+"functions": [{"name": "Separate","parameters": [{"name": "Time","type": "Decimal"}] }]
+}

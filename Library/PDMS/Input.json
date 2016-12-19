@@ -1,0 +1,7 @@
+{
+"component": "Input",
+"size": {"height": 10, "width": 10},
+"functions": [ {"function": "Input", "parameters": [ "id","amount" ] },{"function": "input", "parameters": [ "id","amount" ] } ],
+"controlPorts": { "number": 1, "locations": [{"x": 10, "y": 20}] },
+"flowPorts": { "number": 1, "locations": [{"x": 5, "y": 0}] }
+}

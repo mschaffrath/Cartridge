@@ -1,0 +1,8 @@
+{
+"component": "Space",
+"size": {"width": 9,"height": 9},
+"flowPorts": {"number": 2,"locations": [{"x": 4,"y": 0},{"x": 4, "y": 9}]},
+"controlPorts": {"number": 0,"locations": []},
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }]
+}
+

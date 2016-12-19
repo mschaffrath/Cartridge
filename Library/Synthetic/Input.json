@@ -1,0 +1,7 @@
+{
+"component": "Input",
+"size": {"width": 5,"height": 5},
+"flowPorts": {"number": 1,"locations": [{"x": 2,"y": 5}]},
+"controlPorts": {"number": 1,"locations": [{"x": 2,"y": 5}]},
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] },{"name": "input","parameters": [{"name": "Amount","type": "Decimal"}] }]
+}

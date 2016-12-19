@@ -1,0 +1,7 @@
+{
+"component": "Mixer",
+"size": {"width": 10,"height": 15},
+"flowPorts": {"number": 2,"locations": [{"x": 1,"y": 2},{"x": 2,"y": 3}]},
+"controlPorts": {"number": 1,"locations": [{"x": 3,"y": 4}]},
+"functions": [{"name": "Mix","parameters": [{"name": "fluid1","type": "String"},{"name": "fluid2","type": "String"},{"name": "Time","type": "Decimal"}]}]
+}

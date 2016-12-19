@@ -1,0 +1,8 @@
+{
+"component": "CathodeReservoir",
+"size": {"width": 49,"height": 104},
+"flowPorts": {"number": 1,"locations": [{"x": 12,"y": 104}]},
+"controlPorts": {"number": 0,"locations": []},
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }]
+}
+
