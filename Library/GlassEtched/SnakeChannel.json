@@ -1,0 +1,19 @@
+{
+"CartridgeName": "SnakeChannel",
+"size": {"width": 60,"height": 60},
+"flowPorts": {"number": 2,"locations": [{"x": 0.5,"y": 0},{"x": 0.5,"y": 1}]},
+"controlPorts": {"number": 0,"locations": []},
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
+"component": [{"shape": "line","source": {"x": 0.5,"y": 0}, "sink": {"X": 0.5,"y": 0.18}},
+              {"shape": "line","source": {"x": 0.5,"y": 0.18},"sink": {"x": 0.85,"y": 0.18}},
+              {"shape": "arc","source": {"x": 0.85,"y": 0.18},"mid": {"x": 1, "y": 0.27},"sink": {"x": 0.85,"y": 0.36}},
+              {"shape": "line","source": {"x": 0.85,"y": 0.36},"sink": {"x": 0.15,"y": 0.36}},
+              {"shape": "arc","source": {"x": 0.15,"y": 0.36},"mid": {"x": 0, "y": 0.45},"sink": {"x": 0.15,"y": 0.54}},
+              {"shape": "line","source": {"x": 0.15,"y": 0.54},"sink": {"x": 0.85,"y": 0.54}},
+              {"shape": "arc","source": {"x": 0.85,"y": 0.54},"mid": {"x": 1, "y": 0.63},"sink": {"x": 0.85,"y": 0.72}},
+              {"shape": "line","source": {"x": 0.85,"y": 0.72},"sink": {"x": 0.15,"y": 0.72}},
+              {"shape": "arc","source": {"x": 0.15,"y": 0.72},"mid": {"x": 0, "y": 0.81},"sink": {"x": 0.15,"y": 0.90}},
+              {"shape": "line","source": {"x": 0.15,"y": 0.90},"sink": {"x": 0.5,"y": 0.90}},
+              {"shape": "line","source": {"x": 0.5,"y": 0.90},"sink": {"x": 0.5,"y": 1}}]
+}
+

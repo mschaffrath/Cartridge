@@ -1,0 +1,13 @@
+{
+"CartridgeName": "JStop",
+"size": {"width": 80,"height": 80},
+"flowPorts": {"number": 2,"locations": [{"x": 0.2,"y": 0},{"x": 0.8,"y": 1}]},
+"controlPorts": {"number": 0,"locations": []},
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
+"component": [{"shape": "line","source": {"x": 0.2,"y": 0}, "sink": {"x": 0.2,"y": 0.8}},
+              {"shape": "arc","source": {"x": 0.2,"y": 0.8},"mid": {"x": 0.35, "y": 0.95},"sink": {"x": 0.5,"y": 0.8}},
+              {"shape": "line","source": {"x": 0.5,"y": 0.8},"sink": {"x": 0.5,"y": 0.2}},
+              {"shape": "arc","source": {"x": 0.5,"y": 0.2},"mid": {"x": 0.65, "y": 0.05},"sink": {"x": 0.8,"y": 0.2}},
+              {"shape": "line","source": {"x": 0.8,"y": 0.2},"sink": {"x": 0.8,"y": 1}}]
+}
+

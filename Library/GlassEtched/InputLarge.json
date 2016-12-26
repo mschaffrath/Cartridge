@@ -1,8 +1,9 @@
 {
-"component": "Input",
-"size": {"width": 34,"height": 115},
-"flowPorts": {"number": 1,"locations": [{"x": 15,"y": 0}]},
+"CartridgeName": "Input",
+"size": {"width": 30,"height": 30},
+"flowPorts": {"number": 1,"locations": [{"x": 0.5,"y": 0},{"x": 0.5,"y": 1},{"x": 0,"y": 0.5},{"x": 1,"y": 0.5}]},
 "controlPorts": {"number": 0,"locations": []},
-"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }]
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
+"component": [{"shape": "circle", "radius": 1, "filled": true, "location": {"x": 0.5,"y": 0.5}}]
 }
 

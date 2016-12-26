@@ -11,7 +11,7 @@ technologyList='{"libraries": [\n'
 for technology in $folder/*; do
     technologyList=$technologyList'\t{"path": "'$technology'/",\n'
     technologyList=$technologyList'\t"name": "'$(basename $technology)'",\n'
-    components='"\tcomponents": [\n'
+    components='\t"components": [\n'
     for cartridge in $technology/*; do
         filename=$(basename $cartridge)
         components=$components'\t\t{"name": "'${filename%.*}'",\n'

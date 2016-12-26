@@ -1,0 +1,9 @@
+{
+"CartridgeName": "Detector",
+"size": {"width": 30,"height": 160},
+"flowPorts": {"number": 2,"locations": [{"x": 0.5,"y": 0},{"x": 0.5,"y": 1}]},
+"controlPorts": {"number": 0,"locations": []},
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
+"component": [{"shape": "rectangle","width": 1, "height": 1,"location": {"x": 0,"y": 0}}]
+}
+
