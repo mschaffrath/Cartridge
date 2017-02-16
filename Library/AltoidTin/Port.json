@@ -1,0 +1,7 @@
+}
+"component": "Port",
+"size": {"width": 80000,"height": 45000},
+"flowPorts": {"number": 1,"locations": [{"x": 10000,"y": 20000}]},
+"controlPorts": {"number": 1,"locations": [{"x": 0,"y": 0,"z": 1200}]},
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }]
+}
