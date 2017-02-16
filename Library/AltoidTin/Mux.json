@@ -1,0 +1,7 @@
+{
+"component": "Mux",
+"size": {"width": 176,"height": 144},
+"flowPorts": {"number": 0,"locations": [{"x": 0,"y": 0}]},
+"controlPorts": {"number": 0,"locations": []},
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }]
+}
