@@ -2,10 +2,14 @@
 	{"path": "Library/AltoidTin/",
 	"name": "AltoidTin",
 	"components": [
+		{"name": "MultiInput",
+		"file": "MultiInput.json"},
+		{"name": "Mux",
+		"file": "Mux.json"},
+		{"name": "Port",
+		"file": "Port.json"},
 		{"name": "SnakeChannel",
-		"file": "SnakeChannel.json"},
-		{"name": "testfile",
-		"file": "testfile"}]
+		"file": "SnakeChannel.json"}]
 	},
 	{"path": "Library/AssemblyBlocks/",
 	"name": "AssemblyBlocks",
