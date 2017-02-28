@@ -1,0 +1,9 @@
+{
+"component": "FFDroplet",
+"size": {"width": 48,"height": 29.4},
+"flowPorts": {"number": 1,"locations": [{"x": 0,"y": 0}]},
+"controlPorts": {"number": 0,"locations": []},
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }]
+"component": [{"shape": "line","source": {"x": 0.2,"y": 0}, "sink": {"x": 0.2,"y": 0.8}},
+              {"shape": "line","source": {"x": 0.8,"y": 0.2},"sink": {"x": 0.8,"y": 1}}]
+}
