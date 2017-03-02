@@ -1,10 +1,12 @@
 {
-"component": "FlowFocus",
+"CartridgeName": "FlowFocus",
 "size": {"width": 50,"height": 50},
 "flowPorts": {"number": 2,"locations": [{"x": 0.5,"y": 0.0}, {"x": 0.5,"y": 1.0}]},
 "controlPorts": {"number": 0,"locations": []},
-"functions": [{"name": "Input","parameters": :[{"name": "Amount","type": "Decimal"}] }],
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
 "component": [{"shape": "circle", "radius": 0.2, "filled": true, "location": {"x": 0.5,"y": 1.0}},
-              {"shape": "line","source": {"x": 0.5,"y": 0.8},"sink": {"x": 0.5,"y": 0.6}},
-              {"shape": "arc","source": {"x": 0.5,"y": 0.0},"mid": {"x": 0.0,"y": 0.0}, "sink": {"x": 0.5,"y": 0.4}}]
+              {"shape": "line","source": {"x": 0.5,"y": 0.9},"sink": {"x": 0.5,"y": 0.7}},
+              {"shape": "line","source": {"x": 0.5,"y": 0.7},"sink": {"x": 0.0,"y": 0.1}},
+              {"shape": "line","source": {"x": 0.0,"y": 0.1},"sink": {"x": 1.0,"y": 0.1}},
+              {"shape": "line","source": {"x": 1.0,"y": 0.1},"sink": {"x": 0.5,"y": 0.7}}]
 }
