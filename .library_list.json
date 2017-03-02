@@ -4,6 +4,8 @@
 	"components": [
 		{"name": "FFDroplet",
 		"file": "FFDroplet.json"},
+		{"name": "FlowFocus",
+		"file": "FlowFocus.json"},
 		{"name": "MultiInput",
 		"file": "MultiInput.json"},
 		{"name": "Mux",
