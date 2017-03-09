@@ -2,6 +2,8 @@
 	{"path": "Library/AltoidTin/",
 	"name": "AltoidTin",
 	"components": [
+		{"name": "CellTrap",
+		"file": "CellTrap.json"},
 		{"name": "FFDroplet",
 		"file": "FFDroplet.json"},
 		{"name": "FlowFocus",
