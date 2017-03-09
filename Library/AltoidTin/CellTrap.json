@@ -6,5 +6,5 @@
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
 "component": [{"shape": "line","source": {"x": 0.1,"y": 0.2},"sink": {"x": 0.1,"y": 0.7}},
               {"shape": "line","source": {"x": 0.7,"y": 0.2},"sink": {"x": 0.7,"y": 0.7}},
-              {"shape": "circle", "location": {"x": 0.45,"y": 0.7},"radius": 0.40,"filled": true}]
+              {"shape": "circle", "location": {"x": 0.475,"y": 0.7},"radius": 0.40,"filled": true}]
 }
