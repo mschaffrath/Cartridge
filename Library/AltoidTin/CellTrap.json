@@ -1,10 +1,10 @@
 {
 "component": "CellTrap",
 "size": {"width": 50,"height": 50},
-"flowPorts": {"number": 2,"locations": [{"x": 0.1,"y": 0.1}, {"x": 0.7,"y": 0.1}]},
+"flowPorts": {"number": 2,"locations": [{"x": 0.2,"y": 0.2}, {"x": 0.8,"y": 0.2}]},
 "controlPorts": {"number": 0,"locations": []},
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
-"component": [{"shape": "line","source": {"x": 0.1,"y": 0.2},"sink": {"x": 0.1,"y": 0.8}},
-              {"shape": "rectangle","width": 0.4, "height": 0.4, "location": {"x": 0.2,"y": 0.6}},
-              {"shape": "line","source": {"x": 0.7,"y": 0.2},"sink": {"x": 0.7,"y": 0.8}}]
+"component": [{"shape": "line","source": {"x": 0.1,"y": 0.2},"sink": {"x": 0.1,"y": 0.7}},
+              {"shape": "circle", "location": {"x": 0.3,"y": 0.7},"radius": 0.2,"filled": false },
+              {"shape": "line","source": {"x": 0.7,"y": 0.2},"sink": {"x": 0.7,"y": 0.7}}]
 }
