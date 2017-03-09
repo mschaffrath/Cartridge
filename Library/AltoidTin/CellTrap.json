@@ -1,7 +1,7 @@
 {
 "component": "CellTrap",
 "size": {"width": 50,"height": 50},
-"flowPorts": {"number": 2,"locations": [{"x": 0.15,"y": 0.2}, {"x": 0.75,"y": 0.2}]},
+"flowPorts": {"number": 2,"locations": [{"x": 0.2,"y": 0.2}, {"x": 0.1,"y": 0.2}]},
 "controlPorts": {"number": 0,"locations": []},
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
 "component": [{"shape": "line","source": {"x": 0.1,"y": 0.2},"sink": {"x": 0.1,"y": 0.7}},
