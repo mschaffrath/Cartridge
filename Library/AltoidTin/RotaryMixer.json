@@ -4,6 +4,8 @@
 "flowPorts": {"number": 2,"locations": [{"x": 0.0,"y": 0.5}, {"x": 1.0,"y": 0.5}]},
 "controlPorts": {"number": 0,"locations": []},
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
-"component": [{"shape": "line","source": {"x": 0.0,"y": 0.45},"sink": {"x": 1.0,"y": 0.45}},
-              {"shape": "circle", "location": {"x": 0.50,"y": 0.50},"radius": 0.40,"filled": true}]
+"component": [{"shape": "line","source": {"x": 0.0,"y": 0.45},"sink": {"x": 0.3,"y": 0.45}},
+              {"shape": "line","source": {"x": 0.7,"y": 0.45},"sink": {"x": 1.0,"y": 0.45}},
+              {"shape": "arc", "source": {"x": 0.3,"y": 0.45},"mid": {"x": 0.5, "y": 0.35}, "sink": {"x": 0.7, "y": 0.45}},
+              {"shape": "arc", "source": {"x": 0.7,"y": 0.45},"mid": {"x": 0.5, "y": 0.55}, "sink": {"x": 0.3, "y": 0.45}}]              
 }
