@@ -8,6 +8,8 @@
 		"file": "CellTrap.json"},
 		{"name": "CellTrapL",
 		"file": "CellTrapL.json"},
+		{"name": "CellTrapS",
+		"file": "CellTrapS.json"},
 		{"name": "Channel",
 		"file": "Channel.json"},
 		{"name": "DropletGenerator",
