@@ -12,6 +12,8 @@
 		"file": "MultiInput.json"},
 		{"name": "Mux",
 		"file": "Mux.json"},
+		{"name": "Node",
+		"file": "Node.json"},
 		{"name": "Port",
 		"file": "Port.json"},
 		{"name": "RecTest",
