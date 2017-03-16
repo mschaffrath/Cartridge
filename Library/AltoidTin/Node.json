@@ -1,0 +1,9 @@
+{
+"component": "Node",
+"size": {"width": 10,"height": 10},
+"flowPorts": {"number": 4,"locations": [{"x": 0.45,"y": 0.0}, {"x": 1.0,"y": 0.45}, {"x": 0.45,"y": 1.0}, {"x": 0.0,"y": 0.45}]},
+"controlPorts": {"number": 0,"locations": []},
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
+"component": [{"shape": "line", "source": {"x": 0.45, "y": 0.0}, "sink": {"x": 0.45, "y": 1.0}},
+              {"shape": "line", "source": {"x": 0.0, "y": 0.45}, "sink": {"x": 1.0, "y": 0.45}}]
+}
