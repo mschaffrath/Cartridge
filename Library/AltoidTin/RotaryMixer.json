@@ -6,6 +6,6 @@
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
 "component": [{"shape": "line","source": {"x": 0.0,"y": 0.45},"sink": {"x": 0.25,"y": 0.45}},
               {"shape": "line","source": {"x": 0.7,"y": 0.45},"sink": {"x": 1.0,"y": 0.45}},
-              {"shape": "arc", "source": {"x": 0.20,"y": 0.45},"mid": {"x": 0.45, "y": 0.10},"sink": {"x": 0.70, "y": 0.45}},
-              {"shape": "arc", "source": {"x": 0.70,"y": 0.45},"mid": {"x": 0.45, "y": 0.90},"sink": {"x": 0.20, "y": 0.45}}]
+              {"shape": "arc", "source": {"x": 0.2,"y": 0.45},"mid": {"x": 0.45, "y": 0.1},"sink": {"x": 0.7, "y": 0.45}},
+              {"shape": "arc", "source": {"x": 0.20,"y": 0.45},"mid": {"x": 0.45, "y": 0.9},"sink": {"x": 0.7, "y": 0.45}}]
 }
