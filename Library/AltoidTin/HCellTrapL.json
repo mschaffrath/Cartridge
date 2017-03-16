@@ -1,7 +1,7 @@
 {
-"component": "Bank",
-"size": {"width": 10,"height": 10},
-"flowPorts": {"number": 1,"locations": []},
+"component": "HCellTrapL",
+"size": {"width": 82,"height": 30},
+"flowPorts": {"number": 2,"locations": [{"x": 0.0,"y": 0.5}, {"x": 1.0,"y": 0.5}]},
 "controlPorts": {"number": 0,"locations": []},
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
 "component": []
