@@ -1,0 +1,8 @@
+{
+"component": "HMixer",
+"size": {"width": 110,"height": 50},
+"flowPorts": {"number": 2,"locations": [{"x": 0.0,"y": 0.5}, {"x": 1.0,"y": 0.5}]},
+"controlPorts": {"number": 0,"locations": []},
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
+"component": []
+}
