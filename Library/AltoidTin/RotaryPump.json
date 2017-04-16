@@ -5,6 +5,6 @@
 "controlPorts": {"number": 0,"locations": []},
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
 "component": [{"shape": "circle", "location": {"x": 0.5, "y": 0.5}, "radius": 0.95, "filled": false },
-              {"shape": "line", "source": {"x": 0.0, "y": 0.975}, "sink": {"x": 0.5,"y": 0.975}},
+              {"shape": "line", "source": {"x": 0.0, "y": 0.95}, "sink": {"x": 0.5,"y": 0.95}},
               {"shape": "line", "source": {"x": 0.5, "y": 0.0}, "sink": {"x": 1.0,"y": 0.0}}]
 }
