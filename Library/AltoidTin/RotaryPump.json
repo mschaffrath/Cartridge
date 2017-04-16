@@ -4,5 +4,5 @@
 "flowPorts": {"number": 2,"locations": [{"x": 0.0, "y": 0.9},{"x": 1.0, "y": 0.1}]},
 "controlPorts": {"number": 0,"locations": []},
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
-"component": [{"shape": "circle", "location": {"x": 0.5, "y": 0.5}, "radius": 0.5, "filled": false}]
+"component": [{"shape": "circle", "location": {"x": 0.5, "y": 0.5}, "radius": 0.5, "filled": true}]
 }
