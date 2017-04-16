@@ -1,5 +1,5 @@
 {
-"component": "Valve",
+"component": "Switch",
 "size": {"width": 10,"height": 10},
 "flowPorts": {"number": 2,"locations": []},
 "controlPorts": {"number": 0,"locations": []},

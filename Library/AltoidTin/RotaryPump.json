@@ -1,8 +1,8 @@
 {
 "component": "RotaryPump",
-"size": {"width": 10,"height": 10},
-"flowPorts": {"number": 1,"locations": []},
+"size": {"width": 200,"height": 200},
+"flowPorts": {"number": 2,"locations": [{"x": 0.0, "y": 0.9},{"x": 0.9, "y": 0.0}]},
 "controlPorts": {"number": 0,"locations": []},
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
-"component": []
+"component": [{"shape": "circle", "location": {"x": 0.5, "y": 0.5}, "radius": 100, "filled": false}]
 }
