@@ -1,10 +1,10 @@
 {
 "component": "Tree_2",
 "size": {"width": 20,"height": 140},
-"flowPorts": {"number": 3,"locations": [{"x": 0.0 ,"y": 0.5},{"x": 0.0,"y": 1.0},{"x": 1.0,"y": 1.0}]},
+"flowPorts": {"number": 3,"locations": [{"x": 0.0 ,"y": 0.5},{"x": 1.0,"y": 0.0},{"x": 1.0,"y": 1.0}]},
 "controlPorts": {"number": 0,"locations": []},
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
 "component": [{"shape": "line", "source": {"x": 0.0, "y": 0.0}, "sink": {"x": 1.0, "y": 0.0}},
-              {"shape": "line", "source": {"x": 0.0, "y": 0.0}, "sink": {"x": 0.0, "y": 1.0}},
-              {"shape": "line", "source": {"x": 0.0, "y": 1.0}, "sink": {"x": 1.0, "y": 1.0}}]
+              {"shape": "line", "source": {"x": 0.0, "y": 0.0}, "sink": {"x": 0.0, "y": 0.95}},
+              {"shape": "line", "source": {"x": 0.0, "y": 0.95}, "sink": {"x": 1.0, "y": 0.95}}]
 }
