@@ -1,6 +1,6 @@
 {
 "component": "Node",
-"size": {"width": 30,"height": 30},
+"size": {"width": 10,"height": 10},
 "flowPorts": {"number": 4,"locations": [{"x": 0.5,"y": 0.0}, {"x": 1.0,"y": 0.5}, {"x": 0.5,"y": 1.0}, {"x": 0.0,"y": 0.5}]},
 "controlPorts": {"number": 0,"locations": []},
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
