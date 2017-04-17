@@ -34,8 +34,6 @@
 		"file": "MultiInput.json"},
 		{"name": "Mux",
 		"file": "Mux.json"},
-		{"name": "Net",
-		"file": "Net.json"},
 		{"name": "Node",
 		"file": "Node.json"},
 		{"name": "Port",
