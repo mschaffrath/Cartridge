@@ -9,9 +9,9 @@
               {"shape": "circle", "radius": 0.02, "filled": true, "location": {"x": 0.025,"y": 0.975}},
               {"shape": "line","source": {"x": 0.0,"y": 0.005},"sink": {"x": 0.5,"y": 0.005}},
               {"shape": "line","source": {"x": 0.0,"y": 0.5},"sink": {"x": 1.0,"y": 0.5}},
-              {"shape": "line","source": {"x": 0.0,"y": 0.95},"sink": {"x": 0.5,"y": 0.95}},
-              {"shape": "line","source": {"x": 0.5,"y": 0.0},"sink": {"x": 0.5,"y": 0.25}},
-              {"shape": "line","source": {"x": 0.5,"y": 1.0},"sink": {"x": 0.5,"y": 0.75}},
+              {"shape": "line","source": {"x": 0.0,"y": 0.95},"sink": {"x": 0.5,"y": 0.975}},
+              {"shape": "line","source": {"x": 0.5,"y": 0.005},"sink": {"x": 0.5,"y": 0.25}},
+              {"shape": "line","source": {"x": 0.5,"y": 0.995},"sink": {"x": 0.5,"y": 0.75}},
               {"shape": "line","source": {"x": 0.5,"y": 0.25},"sink": {"x": 1.0,"y": 0.5}},
               {"shape": "line","source": {"x": 0.5,"y": 0.75},"sink": {"x": 1.0,"y": 0.5}},
               {"shape": "line","source": {"x": 0.0,"y": 0.5},"sink": {"x": 1.0,"y": 0.5}}]
