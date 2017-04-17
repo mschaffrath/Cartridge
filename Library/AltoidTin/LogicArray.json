@@ -1,8 +1,19 @@
 {
 "component": "LogicArray",
 "size": {"width": 684,"height": 1120},
-"flowPorts": {"number": 3,"locations": []},
+"flowPorts": {"number": 3,"locations": [{"x":0.0,"y":0.5},{"x":0.0,"y":0.175},{"x":0.0,"y":0.825}]},
 "controlPorts": {"number": 0,"locations": []},
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
-"component": []
+"component": [{"shape": "rectangle", "width": 0.5, "length": 0.5, "location": {"x":0.1,"y":0.0}},
+              {"shape": "rectangle", "source": {"x": 0.375, "y": 0.0}, "sink": {"x": 0.375, "y": 1.0}},
+              {"shape": "line", "source": {"x": 0.375, "y": 0.0}, "sink": {"x": 0.375, "y": 1.0}},
+              {"shape": "line", "source": {"x": 0.375, "y": 0.0}, "sink": {"x": 0.375, "y": 1.0}},
+              {"shape": "line", "source": {"x": 0.375, "y": 0.0}, "sink": {"x": 0.375, "y": 1.0}},
+              {"shape": "line", "source": {"x": 0.375, "y": 0.0}, "sink": {"x": 0.375, "y": 1.0}},
+              {"shape": "line", "source": {"x": 0.375, "y": 0.0}, "sink": {"x": 0.375, "y": 1.0}},
+              {"shape": "line", "source": {"x": 0.375, "y": 0.0}, "sink": {"x": 0.375, "y": 1.0}},
+              {"shape": "line", "source": {"x": 0.375, "y": 0.0}, "sink": {"x": 0.375, "y": 1.0}},
+              {"shape": "line", "source": {"x": 0.375, "y": 0.0}, "sink": {"x": 0.375, "y": 1.0}},
+              {"shape": "line", "source": {"x": 0.375, "y": 0.0}, "sink": {"x": 0.375, "y": 1.0}},
+              {"shape": "line", "source": {"x": 0.375, "y": 0.0}, "sink": {"x": 0.375, "y": 1.0}}]
 }
