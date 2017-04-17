@@ -1,6 +1,6 @@
 {
-"component": "FFDroplet",
-"size": {"width": 48,"height": 29.4},
+"component": "VTDroplet",
+"size": {"width": 359,"height": 365},
 "flowPorts": {"number": 2,"locations": [{"x": 0.5,"y": 0.0}, {"x": 0.5,"y": 1.0}]},
 "controlPorts": {"number": 0,"locations": []},
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
