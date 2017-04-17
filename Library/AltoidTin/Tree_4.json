@@ -12,5 +12,5 @@
               {"shape": "line", "source": {"x": 0.5, "y": 0.0}, "sink": {"x": 1.0, "y": 0.0}},
               {"shape": "line", "source": {"x": 0.5, "y": 0.25}, "sink": {"x": 1.0, "y": 0.25}},
               {"shape": "line", "source": {"x": 0.5, "y": 0.75}, "sink": {"x": 1.0, "y": 0.75}},
-              {"shape": "line", "source": {"x": 0.5, "y": 0.975}, "sink": {"x": 1.0, "y": 0.975}}]
+              {"shape": "line", "source": {"x": 0.5, "y": 0.98}, "sink": {"x": 1.0, "y": 0.98}}]
 }
