@@ -1,7 +1,7 @@
 {
-"component": "Logic",
-"size": {"width": 10,"height": 10},
-"flowPorts": {"number": 1,"locations": []},
+"component": "LogicArray",
+"size": {"width": 684,"height": 1120},
+"flowPorts": {"number": 3,"locations": []},
 "controlPorts": {"number": 0,"locations": []},
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
 "component": []
