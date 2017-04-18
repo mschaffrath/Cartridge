@@ -1,6 +1,6 @@
 {
 "component": "HMixer_10",
-"size": {"width": 110,"height": 50},
+"size": {"width": 200,"height": 100},
 "flowPorts": {"number": 2,"locations": [{"x": 0.0,"y": 0.5}, {"x": 1.0,"y": 0.5}]},
 "controlPorts": {"number": 0,"locations": []},
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
