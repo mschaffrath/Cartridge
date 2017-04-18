@@ -1,0 +1,11 @@
+{
+"component": "HTDroplet_East",
+"size": {"width": 365,"height": 359},
+"flowPorts": {"number": 1,"locations": [{"x": 1.0,"y": 0.0}]},
+"controlPorts": {"number": 0,"locations": []},
+"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
+"component": [{"shape": "line","source": {"x": 0.0,"y": 0.0},"sink": {"x": 1.0,"y": 0.0}},
+              {"shape": "line","source": {"x": 0.5,"y": 0.0},"sink": {"x": 0.5,"y": 1.0}},
+              {"shape": "circle", "radius": 0.02, "filled": true, "location": {"x": 0.02,"y": 0.02}},
+              {"shape": "circle", "radius": 0.02, "filled": true, "location": {"x": 0.5,"y": 0.88}}]
+}
