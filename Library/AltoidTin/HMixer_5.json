@@ -6,13 +6,13 @@
 "functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
 "component": [{"shape": "line", "source": {"x": 0.0, "y": 0.45}, "sink": {"x": 0.0434, "y": 0.45}},
               {"shape": "line", "source": {"x": 0.0434, "y": 0.45}, "sink": {"x": 0.0434, "y": 0.0}},
-              {"shape": "line", "source": {"x": 0.0434, "y": 0.0}, "sink": {"x": 0.0868, "y": 0.0}},
-              {"shape": "line", "source": {"x": 0.0868, "y": 0.0}, "sink": {"x": 0.0868, "y": 0.9}},
-              {"shape": "line", "source": {"x": 0.0868, "y": 0.9}, "sink": {"x": 0.1302, "y": 0.9}},
-              {"shape": "line", "source": {"x": 0.1302, "y": 0.9}, "sink": {"x": 0.1302, "y": 0.0}},
-              {"shape": "line", "source": {"x": 0.45, "y": 0.0}, "sink": {"x": 0.63, "y": 0.0}},
-              {"shape": "line", "source": {"x": 0.63, "y": 0.0}, "sink": {"x": 0.63, "y": 0.9}},
-              {"shape": "line", "source": {"x": 0.63, "y": 0.9}, "sink": {"x": 0.81, "y": 0.9}},
-              {"shape": "line", "source": {"x": 0.81, "y": 0.9}, "sink": {"x": 0.81, "y": 0.45}},
-              {"shape": "line", "source": {"x": 0.81, "y": 0.45}, "sink": {"x": 1.0, "y": 0.45}}]
+              {"shape": "line", "source": {"x": 0.0434, "y": 0.0}, "sink": {"x": 0.1736, "y": 0.0}},
+              {"shape": "line", "source": {"x": 0.1736, "y": 0.0}, "sink": {"x": 0.1736, "y": 0.9}},
+              {"shape": "line", "source": {"x": 0.1736, "y": 0.9}, "sink": {"x": 0.3038, "y": 0.9}},
+              {"shape": "line", "source": {"x": 0.3038, "y": 0.9}, "sink": {"x": 0.3038, "y": 0.0}},
+              {"shape": "line", "source": {"x": 0.3038, "y": 0.0}, "sink": {"x": 0.434, "y": 0.0}},
+              {"shape": "line", "source": {"x": 0.434, "y": 0.0}, "sink": {"x": 0.434, "y": 0.9}},
+              {"shape": "line", "source": {"x": 0.434, "y": 0.9}, "sink": {"x": 0.5642, "y": 0.9}},
+              {"shape": "line", "source": {"x": 0.5642, "y": 0.9}, "sink": {"x": 0.5642, "y": 0.0}},
+              {"shape": "line", "source": {"x": 0.5642, "y": 0.0}, "sink": {"x": 0.6944, "y": 0.0}}]
 }
