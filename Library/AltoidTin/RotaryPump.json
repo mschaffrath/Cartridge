@@ -1,5 +1,5 @@
 {
-"component": "RotaryPump",
+"CartridgeName": "RotaryPump",
 "size": {"width": 200,"height": 200},
 "flowPorts": {"number": 2,"locations": [{"x": 0.0, "y": 0.95},{"x": 1.0, "y": 0.0}]},
 "controlPorts": {"number": 0,"locations": []},

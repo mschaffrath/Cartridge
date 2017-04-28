@@ -1,5 +1,5 @@
 {
-"component": "CellTrapS",
+"CartridgeName": "CellTrapS",
 "size": {"width": 50,"height": 50},
 "flowPorts": {"number": 4,"locations": [{"x": 0.5,"y": 0.0}, {"x": 1.0,"y": 0.5}, {"x": 0.5,"y": 1.0}, {"x": 0.0,"y": 0.5}]},
 "controlPorts": {"number": 0,"locations": []},
@@ -7,3 +7,4 @@
 "component": [{"shape": "line", "source": {"x": 0.425, "y": 0.0}, "sink": {"x": 0.425, "y": 1.0}},
               {"shape": "line", "source": {"x": 0.0, "y": 0.425}, "sink": {"x": 1.0, "y": 0.425}}]
 }
+
