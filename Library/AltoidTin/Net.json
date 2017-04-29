@@ -1,8 +1,0 @@
-{
-"component": "Net",
-"size": {"width": 10,"height": 10},
-"flowPorts": {"number": 1,"locations": [{"x": 0.5,"y": 0.5}]},
-"controlPorts": {"number": 0,"locations": []},
-"functions": [{"name": "Input","parameters": [{"name": "Amount","type": "Decimal"}] }],
-"component": []
-}
